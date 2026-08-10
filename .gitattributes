@@ -1,0 +1,7 @@
+# Text file normalization
+*.min.js linguist-generated
+docs/** linguist-vendored
+*.tsx linguist-detectable
+src/**/*.ts linguist-detectable
+*.jpeg binary
+*.svg text
